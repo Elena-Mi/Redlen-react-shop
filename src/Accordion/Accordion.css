@@ -1,0 +1,51 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+:root {
+	--bg_pink: rgb(220, 119, 149);
+	--pink_text: rgb(226, 81, 154);
+	--colors_pink: rgb(224, 100, 162);
+	--black: #232323;
+	--white: #ddd;
+	--transparent: rgba(255, 255, 255, 0.5);
+}
+.main_accordion {
+	background-color: var(--white);
+	width: 100%;
+}
+.active {
+	padding: 10px 10px;
+	border: 1px solid red;
+	cursor: pointer;
+	color: var(--pink_text);
+  text-transform: uppercase;
+	width: 100%;
+}
+.default {
+	padding: 10px 10px;
+	border: 1px solid var(--pink_text);
+	cursor: pointer;
+	color: var((var(--black)));
+  text-shadow: 1px 1px var(--colors_pink);
+	width: 100%;
+  text-transform: uppercase;
+}
+.content {
+	padding: 50px 11px;
+	color: var(--white);
+  font-size: 19px;
+	background-color: var(--bg_pink);
+	width: 100%;
+}
+.arrow {
+	display: flex;
+	flex-direction: row-reverse;
+}
+
+@media all and (max-width: 416px) {
+	.content {
+    font-size: 17px;
+}
+}

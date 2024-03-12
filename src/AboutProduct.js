@@ -1,7 +1,7 @@
 import { useParams, useNavigate } from 'react-router-dom';
 import { data } from './data';
 import './App.css';
-import ContactForm from './Form/ContactForm';
+
 
 function AboutProduct() {
 	const navigate = useNavigate();

@@ -12,7 +12,7 @@ function Products({ itemForSale }) {
 	return (
 		<div className='products'>
 			{itemForSale.map(element => {
-				const { id, name, searchTerm, description, size, price, image, title } =
+				const { id, name, description,price, image, title } =
 					element
 				return (
 					<div key={id} className='product-card'>

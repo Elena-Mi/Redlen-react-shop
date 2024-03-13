@@ -23,7 +23,7 @@ export const data = [
 
 		price: 51.9,
 		description: '36-44 size',
-
+		size: 'Comfortable Shoe for everyday',
 		image:
 			'https://cdn.glitch.global/f7b7a083-9141-48d0-a30a-ae1958919902/IMG_3980.jpg?v=1710156593267',
 	},
@@ -37,7 +37,7 @@ export const data = [
 
 		price: 48.9,
 		description: '36-44 size',
-
+		size: 'Comfortable Shoe for everyday',
 		image:
 			'https://cdn.glitch.global/f7b7a083-9141-48d0-a30a-ae1958919902/shoe-3.jpg?v=1710145220931',
 	},
@@ -51,7 +51,7 @@ export const data = [
 
 		price: 60.9,
 		description: '36-44 size',
-
+		size: 'Comfortable Shoe for everyday',
 		image:
 			'https://cdn.glitch.global/f7b7a083-9141-48d0-a30a-ae1958919902/shoe-4.jpg?v=1710145224761',
 	},
@@ -65,7 +65,7 @@ export const data = [
 
 		price: 60.9,
 		description: '36-44 size',
-
+		size: 'Comfortable Shoe for everyday',
 		image:
 			'https://cdn.glitch.global/f7b7a083-9141-48d0-a30a-ae1958919902/shoe-5.jpg?v=1710145232044',
 	},
@@ -79,7 +79,7 @@ export const data = [
 
 		price: 40.9,
 		description: '36-44 size',
-
+		size: 'Comfortable Shoe for everyday',
 		image:
 			'https://cdn.glitch.global/f7b7a083-9141-48d0-a30a-ae1958919902/shoe-6.jpg?v=1710145232821',
 	},
@@ -93,7 +93,7 @@ export const data = [
 		price: 40.9,
 
 		description: '36-44 size',
-
+		size: 'Comfortable Shoe for everyday',
 		image:
 			'https://cdn.glitch.global/f7b7a083-9141-48d0-a30a-ae1958919902/shoe-7.jpg?v=1710145238372',
 	},
@@ -107,7 +107,7 @@ export const data = [
 		price: 30,
 
 		description: 'S-L size',
-
+		size: 'Comfortable T-shirt for everyday',
 		image:
 			'https://cdn.glitch.global/f7b7a083-9141-48d0-a30a-ae1958919902/t-shirt-1.jpg?v=1710145534161',
 	},
@@ -121,7 +121,7 @@ export const data = [
 		price: 20,
 
 		description: 'S-L size',
-
+		size: 'Comfortable T-shirt for everyday',
 		image:
 			'https://cdn.glitch.global/f7b7a083-9141-48d0-a30a-ae1958919902/IMG_3988.jpg?v=1710156640381',
 	},
@@ -135,7 +135,7 @@ export const data = [
 		price: 20,
 
 		description: 'S-L size',
-
+		size: 'Comfortable T-shirt for everyday',
 		image:
 			'https://cdn.glitch.global/f7b7a083-9141-48d0-a30a-ae1958919902/t-shirt-3.jpg?v=1710145540948',
 	},
@@ -149,7 +149,7 @@ export const data = [
 		price: 20,
 
 		description: 'S-L size',
-
+		size: 'Comfortable T-shirt for everyday',
 		image:
 			'https://cdn.glitch.global/f7b7a083-9141-48d0-a30a-ae1958919902/IMG_3990.jpg?v=1710156712644',
 	},
@@ -163,7 +163,7 @@ export const data = [
 		price: 20,
 
 		description: 'S-L size',
-
+		size: 'Comfortable T-shirt for everyday',
 		image:
 			'https://cdn.glitch.global/f7b7a083-9141-48d0-a30a-ae1958919902/t-shirt-5.jpg?v=1710145547230',
 	},
@@ -177,7 +177,7 @@ export const data = [
 		price: 20,
 
 		description: 'S-L size',
-
+		size: 'Comfortable T-shirt for everyday',
 		image:
 			'https://cdn.glitch.global/f7b7a083-9141-48d0-a30a-ae1958919902/t-shirt-6.jpg?v=1710145551249',
 	},
@@ -191,7 +191,7 @@ export const data = [
 		price: 20,
 
 		description: 'S-L size',
-
+		size: 'Comfortable T-shirt for everyday',
 		image:
 			'https://cdn.glitch.global/f7b7a083-9141-48d0-a30a-ae1958919902/t-shirt-7.jpg?v=1710145553332',
 	},
@@ -203,7 +203,7 @@ export const data = [
 		searchTerm: ['woman', 't-shirt'],
 		title: 'tshirt-grocnsk',
 		price: 20,
-
+		size: 'Comfortable T-shirt for everyday',
 		description: 'S-L size',
 
 		image:
@@ -219,7 +219,7 @@ export const data = [
 		price: 15,
 
 		description: 'oversize',
-
+		size: 'Comfortable hat for everyday',
 		image:
 			'https://cdn.glitch.global/f7b7a083-9141-48d0-a30a-ae1958919902/hat-1.jpg?v=1710145029257',
 	},
@@ -233,7 +233,7 @@ export const data = [
 		price: 15,
 
 		description: 'oversize',
-
+		size: 'Comfortable hat for everyday',
 		image:
 			'https://cdn.glitch.global/f7b7a083-9141-48d0-a30a-ae1958919902/IMG_3996.jpg?v=1710156782558',
 	},
@@ -247,7 +247,7 @@ export const data = [
 		price: 15,
 
 		description: 'oversize',
-
+		size: 'Comfortable hat for everyday',
 		image:
 			'https://cdn.glitch.global/f7b7a083-9141-48d0-a30a-ae1958919902/hat-3.jpg?v=1710145122985',
 	},
@@ -259,7 +259,7 @@ export const data = [
 		searchTerm: ['woman', 'hat'],
 		title: 'super-hat',
 		price: 15,
-
+		size: 'Comfortable hat for everyday',
 		description: 'oversize',
 
 		image:
@@ -275,7 +275,7 @@ export const data = [
 		price: 15,
 
 		description: 'oversize',
-
+		size: 'Comfortable hat for everyday',
 		image:
 			'https://cdn.glitch.global/f7b7a083-9141-48d0-a30a-ae1958919902/hat-5.jpg?v=1710145135568',
 	},
@@ -289,7 +289,7 @@ export const data = [
 		price: 15,
 
 		description: 'oversize',
-
+		size: 'Comfortable hat for everyday',
 		image:
 			'https://cdn.glitch.global/f7b7a083-9141-48d0-a30a-ae1958919902/IMG_4001.jpg?v=1710156834278',
 	},
@@ -303,7 +303,7 @@ export const data = [
 		price: 15,
 
 		description: 'oversize',
-
+		size: 'Comfortable hat for everyday',
 		image:
 			'https://cdn.glitch.global/f7b7a083-9141-48d0-a30a-ae1958919902/hat-7.jpg?v=1710145140527',
 	},
@@ -317,7 +317,7 @@ export const data = [
 		price: 15,
 
 		description: 'oversize',
-
+		size: 'Comfortable hat for everyday',
 		image:
 			'https://cdn.glitch.global/f7b7a083-9141-48d0-a30a-ae1958919902/hat-8.jpg?v=1710145142905',
 	},
@@ -331,7 +331,7 @@ export const data = [
 		price: 45,
 
 		description: 'S-xL size',
-
+		size: 'Comfortable sweater for everyday',
 		image:
 			'https://cdn.glitch.global/f7b7a083-9141-48d0-a30a-ae1958919902/sweater-1.jpg?v=1710145321994',
 	},
@@ -345,7 +345,7 @@ export const data = [
 		price: 45,
 
 		description: 'S-xL size',
-
+		size: 'Comfortable sweater for everyday',
 		image:
 			'https://cdn.glitch.global/f7b7a083-9141-48d0-a30a-ae1958919902/sweater-2.jpg?v=1710145325930',
 	},
@@ -359,7 +359,7 @@ export const data = [
 		price: 45,
 
 		description: 'S-xL size',
-
+		size: 'Comfortable sweater for everyday',
 		image:
 			'https://cdn.glitch.global/f7b7a083-9141-48d0-a30a-ae1958919902/IMG_4006.jpg?v=1710156489726',
 	},
@@ -371,7 +371,7 @@ export const data = [
 		searchTerm: ['woman', 'sweater'],
 		title: 'sweater-pinkdark',
 		price: 45,
-
+		size: 'Comfortable sweater for everyday',
 		description: 'S-xL size',
 
 		image:
@@ -387,7 +387,7 @@ export const data = [
 		price: 45,
 
 		description: 'S-xL size',
-
+		size: 'Comfortable sweater for everyday',
 		image:
 			'https://cdn.glitch.global/f7b7a083-9141-48d0-a30a-ae1958919902/IMG_4008.jpg?v=1710156900380',
 	},
@@ -401,10 +401,11 @@ export const data = [
 		price: 45,
 
 		description: 'S-xL size',
-
+		size: 'Comfortable sweater for everyday',
 		image:
 			'https://cdn.glitch.global/f7b7a083-9141-48d0-a30a-ae1958919902/sweater-6.jpg?v=1710145343194',
 	},
+
 	{
 		id: 30,
 
@@ -415,7 +416,7 @@ export const data = [
 		price: 45,
 
 		description: 'S-xL size',
-
+		size: 'Comfortable sweater for everyday',
 		image:
 			'https://cdn.glitch.global/f7b7a083-9141-48d0-a30a-ae1958919902/sweater-7.jpg?v=1710145345452',
 	},
@@ -429,7 +430,7 @@ export const data = [
 		price: 45,
 
 		description: 'S-xL size',
-
+		size: 'Comfortable sweater for everyday',
 		image:
 			'https://cdn.glitch.global/f7b7a083-9141-48d0-a30a-ae1958919902/IMG_4011.jpg?v=1710157206112',
 	},

@@ -3,7 +3,7 @@ import ContactForm from './Form/ContactForm'
 import LoaderPage from './Loader/LoaderPage'
 import { useEffect, useState } from 'react'
 
-function About({}) {
+function About() {
 	const [stateLoaderSecond, setStateLoaderSecond] = useState(true)
 
 	useEffect(() => {

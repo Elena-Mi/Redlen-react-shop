@@ -1,5 +1,4 @@
 import { useState } from "react";
-
 import LoaderPage from './Loader/LoaderPage';
 import { useEffect } from 'react';
 import { Accordion } from "./Accordion/Accordion";

@@ -5,8 +5,9 @@ import Home from './Home'
 import About from './About'
 import Contact from './Contact'
 import Delivery from './Delivery'
-import ScrollTop from './ScrollTop'
+
 import AboutProduct from './AboutProduct'
+import ScrollTop from './ScrollTop/ScrollTop'
 
 function App() {
 	return (

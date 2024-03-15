@@ -1,19 +1,15 @@
 import './App.css'
 import ContactForm from './Form/ContactForm'
-import LoaderPage from './Loader/LoaderPage'
-import { useEffect, useState } from 'react'
+import Timer from './Timer/Timer'
+
+
 
 function About() {
-	const [stateLoaderSecond, setStateLoaderSecond] = useState(true)
 
-	useEffect(() => {
-		const timer = setTimeout(() => setStateLoaderSecond(false), 1000)
-		return () => clearInterval(timer)
-	}, [])
+
+
 	return (
 		<div>
-			{stateLoaderSecond && <LoaderPage />}
-
 			<div className='about'>
 				<h1 className='about_title'>
 					We are an online store of women's goods RedLen
@@ -38,6 +34,21 @@ function About() {
 						buy leather from China
 					</p>
 				</div>
+
+		
+					
+						<div className='timer-info'>
+							<div className='timer-top-content'>
+								<h5 className='timer-title'>Get your sale</h5>
+								<h3 className='
+								timer-text'>10% off for the first order</h3>
+							</div>
+							<Timer />
+							
+						</div>
+					
+					
+				
 
 				<ContactForm />
 			</div>

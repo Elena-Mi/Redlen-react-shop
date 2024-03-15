@@ -1,9 +1,6 @@
-import { data } from './data'
+import { data } from '../data'
 
 function Buttons({ setClothes }) {
-			
-
-
 	const filteredClothes = searchTerm => {
 		const newClothesArray = data.filter(item =>
 			item.searchTerm.includes(searchTerm)

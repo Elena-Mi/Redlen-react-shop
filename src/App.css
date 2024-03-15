@@ -288,7 +288,28 @@ button {
 	background-color: var(--pink_text);
 	cursor: pointer;
 }
-
+.timer-info {
+	background-color: var(--white);
+	height: 30vh;
+	padding-top: 3rem;
+}
+.timer-left {
+	align-items: center;
+	background: #0a1d37;
+	color: #fff;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
+.timer-title {
+	text-align: center;
+	color: var(--pink_text);
+	text-transform: uppercase;
+}
+.timer-text {
+	text-align: center;
+	color: var(--pink_text);
+}
 @media all and (max-width: 757px) {
 	.link {
 		padding: 10px 30px;
@@ -430,7 +451,7 @@ button {
 		font-size: 13px;
 	}
 	.product-descr-second {
-    font-size: 14px;
+		font-size: 14px;
 	}
 }
 @media all and (max-width: 416px) {
@@ -494,8 +515,8 @@ button {
 	}
 }
 
-@media all and (max-width:345px) {
+@media all and (max-width: 345px) {
 	.link {
-    font-size: 10px;
-}
+		font-size: 10px;
+	}
 }

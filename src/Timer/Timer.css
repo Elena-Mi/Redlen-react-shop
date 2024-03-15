@@ -1,0 +1,32 @@
+:root {
+	--bg_pink: rgb(220, 119, 149);
+	--pink_text: rgb(226, 81, 154);
+	--colors_pink: rgb(224, 100, 162);
+	--black: #232323;
+	--white: #ddd;
+	--transparent: rgba(255, 255, 255, 0.5);
+}
+.clock-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.clock-data {
+    display: flex;
+    align-items: center;
+    margin: 20px;
+  }
+  .clock {
+    text-align: center;
+    
+  }
+  .clock h2 {
+    margin: 0;
+    color: var(--pink_text);
+  }
+  .clock h5 {
+    margin: 0;
+    font-size: 12px;
+    color: var(--black);
+
+  }

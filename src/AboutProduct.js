@@ -3,6 +3,7 @@ import { data } from './data';
 import './App.css';
 
 
+
 function AboutProduct() {
 	const navigate = useNavigate();
 	const { title } = useParams();
@@ -14,7 +15,9 @@ function AboutProduct() {
 				.map((elem, index) => {
 					return (
 						<div className='about_product' key={index}>
-							<img src={elem.image} alt='product' width='400px' />
+							
+								<img src={elem.image} alt='product' width='400px' />
+							
 							<div className='about_product_secondContainer'>
 								<h3 className='about_product_description'>{elem.name}</h3>
 								<p product-descr>{elem.description}</p>

@@ -15,6 +15,7 @@ function App() {
 			<Router>
 				<ScrollTop />
 				<header>
+				
 					<nav>
 						<ul>
 							<li>
@@ -54,7 +55,7 @@ function App() {
 						<Route path='/about' element={<About />} />
 						<Route path='/:title' element={<AboutProduct />} />
 						<Route path='/contact' element={<Contact />} />
-						<Route path='delivery' element={<Delivery />} />
+						<Route path='/delivery' element={<Delivery />} />
 						
 					</Routes>
 				</main>

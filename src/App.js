@@ -24,7 +24,7 @@ function App() {
 								</Link>
 							</li>
 							<li>
-								<Link to='/:title' className='link'>
+								<Link to='/' className='link'>
 									Products
 								</Link>
 							</li>

@@ -158,7 +158,6 @@ button {
 	border-radius: 8px;
 }
 
-
 .aboutProduct_secondBlock {
 	background-color: var(--bg_pink);
 	height: 50vh;
@@ -272,6 +271,22 @@ button {
 .timer-text {
 	text-align: center;
 	color: var(--pink_text);
+}
+@media all and (max-height: 673px) {
+	.about {
+		height: 107vh;
+	}
+	.about_find_three,
+	.about_find_two,
+	.about_find_one {
+		padding: 2.5rem 2rem;
+		text-align: center;
+	}
+}
+@media all and (max-height:622px) {
+	.about_find_one, .about_find_two, .about_find_three{
+		height: 44vh;
+	}
 }
 @media all and (max-width: 757px) {
 	.link {
